@@ -6,6 +6,6 @@
 ### About me
 - I'm a JavaScript developer.  💻 
 - Currentely learning {NodeJs, ReactJs, React Native and TypeScript}. :rocket:
-- Huge enthusiast of technology. :computer:
+- Huge enthusiast of technology. 👨🏼‍🏫
 - Graduated in systems analysis and development. :mortar_board:
 - Currentely looking for a job. :briefcase:
