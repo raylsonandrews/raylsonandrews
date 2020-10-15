@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/raylson-brauna-a642b0178/)
 
 ### About me
-- I'm a JavaScript developer, currentely learning {NodeJs, ReactJs, React Native and TypeScript} and huge enthusiast of technology.
-- Graduated in systems analysis and development.
-- Currentely looking for a job.
+- I'm a JavaScript developer.  💻 
+- Currentely learning {NodeJs, ReactJs, React Native and TypeScript}. :rocket:
+- Huge enthusiast of technology. :computer:
+- Graduated in systems analysis and development. :mortar_board:
+- Currentely looking for a job. :briefcase:
