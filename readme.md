@@ -10,4 +10,3 @@
 - Currentely learning {NodeJs, ReactJs, React Native and TypeScript}. :rocket:
 - Huge enthusiast of technology. 👨🏼‍🏫
 - Graduated in systems analysis and development. :mortar_board:
-- Currentely looking for a job. :briefcase:
