@@ -1,7 +1,7 @@
 # Hello there, my name is Raylson. 👋
 
 ### About me
-- Currently working as System Analist and Data Analist.
+- Currently working as Data Engineer.
 - Currentely learning {NodeJs and Angular}.
 - Huge enthusiast of technology.
 - Graduated in systems analysis and development.
