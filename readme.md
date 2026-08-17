@@ -2,7 +2,6 @@
 
 ### About me
 - Currently working as Data Engineer.
-- Currentely learning {NodeJs and Angular}.
 - Huge enthusiast of technology.
 - Graduated in systems analysis and development.
 
